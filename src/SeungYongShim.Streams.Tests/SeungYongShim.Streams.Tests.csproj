@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Akka.Streams" Version="1.4.21" />
-    <PackageReference Include="FluentAssertions" Version="5.10.3" />
+    <PackageReference Include="FluentAssertions" Version="6.4.0" />
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.10.0" />
     <PackageReference Include="SeungYongShim.Akka.DependencyInjection" Version="1.4.21.311" />
